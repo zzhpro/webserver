@@ -1,0 +1,2 @@
+gcc simple_server.c -o server -pthread
+gcc simple_client.c -o client
